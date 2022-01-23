@@ -1,0 +1,26 @@
+body {
+    background-color: #026d24;
+}
+
+a {
+    color: #026d24;
+    text-decoration: none;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    border-radius: 5px;
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
+    background-color: #e2dede;
+    display: block;
+    box-shadow: 1px 1px 1px 1px #000;
+}
